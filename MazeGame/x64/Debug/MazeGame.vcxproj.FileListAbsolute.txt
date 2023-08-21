@@ -1,1 +1,2 @@
 C:\Users\karti\OneDrive\Documents\CGSpectrum\Introduction to Programming\MazeGame\MazeGame\x64\Debug\MazeGame.exe
+C:\Users\karti\OneDrive\Documents\CGSpectrum\MazeGame\MazeGame\MazeGame\x64\Debug\MazeGame.exe
